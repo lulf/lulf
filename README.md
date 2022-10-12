@@ -1,5 +1,3 @@
-Open source developer working for Red Hat.
-
 - 🔭 I’m currently working on [Drogue IoT](https://www.drogue.io/) and [Embassy](https://embassy.dev/).
 - 🌱 I’m currently learning how to become a better presenter and writer.
 - 💬 Ask me about my [legobots](https://github.com/lulf/legobots)!
