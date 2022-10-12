@@ -4,9 +4,9 @@ Open source developer working for Red Hat.
 - 🌱 I’m currently learning how to become a better presenter and writer.
 - 💬 Ask me about my [legobots](https://github.com/lulf/legobots)!
 - 🤔 I’m looking for help with improving open source.
-- 📫 How to reach me: :bird: [@lulf](https://twitter.com/lulf) or :incoming_envelope: ulf.lilleengen@gmail.com
+- 📫 How to reach me: [:bird:](https://twitter.com/lulf) or [:incoming_envelope](mailto:ulf.lilleengen@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I never tasted lutefisk!
+- ⚡ Fun fact: I've never tasted lutefisk!
 
 <!--
 **lulf/lulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
