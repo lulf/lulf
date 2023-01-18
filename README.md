@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Drogue IoT](https://www.drogue.io/) and [Embassy](https://embassy.dev/), and [Trustification](https://trustification.io).
+- 🔭 I’m currently working on [Drogue IoT](https://www.drogue.io/), [Embassy](https://embassy.dev/), and [Trustification](https://trustification.io).
 - 🌱 I’m currently learning how to become a better presenter and writer.
 - 💬 Ask me about my [legobots](https://github.com/lulf/legobots)!
 - 🤔 I’m looking for help with improving open source.
