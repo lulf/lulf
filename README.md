@@ -7,7 +7,7 @@ Software engineer with interest in systems constrained by size, performance or s
 ## Work 
 Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
 
-Previous: Nordic Semiconductor (IoT, BLE, IPv6), Yahoo! (Search, [Vespa.ai](https://vespa.ai))
+Previous: Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
 
 ## Contact
 
