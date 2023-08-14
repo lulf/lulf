@@ -1,8 +1,16 @@
-- 💬 Ask me about my [legobots](https://github.com/lulf/legobots)!
-- 🤔 I’m looking for help with improving open source.
-- 📫 How to reach me: [:bird:](https://twitter.com/lulf) or [:incoming_envelope:](mailto:ulf.lilleengen@gmail.com)
-- 😄 Pronouns: He/Him
+Software engineer with interest in systems constrained by size, performance or scale.
 
+Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
+
+== Interests
+* Embedded and IoT
+* Open Source communities
+
+== Contact
+
+* 🐘 [Fediverse](https://hachyderm.io/@lulf)
+*  :incoming_envelope: [E-Mail](mailto:ulf.lilleengen@gmail.com)
+  
 <!--
 **lulf/lulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
