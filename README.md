@@ -1,10 +1,13 @@
 Software engineer with interest in systems constrained by size, performance or scale.
 
-Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
-
 ## Interests
 * Embedded and IoT
 * Open Source communities
+
+## Work 
+Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
+
+Previous: Nordic Semiconductor (IoT, BLE, IPv6), Yahoo! (Search, [Vespa.ai](https://vespa.ai))
 
 ## Contact
 
