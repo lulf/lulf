@@ -2,11 +2,11 @@ Software engineer with interest in systems constrained by size, performance or s
 
 Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
 
-== Interests
+## Interests
 * Embedded and IoT
 * Open Source communities
 
-== Contact
+## Contact
 
 * 🐘 [Fediverse](https://hachyderm.io/@lulf)
 *  :incoming_envelope: [E-Mail](mailto:ulf.lilleengen@gmail.com)
