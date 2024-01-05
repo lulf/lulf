@@ -5,9 +5,9 @@ Software engineer with interest in systems constrained by size, performance or s
 * Open Source communities
 
 ## Work 
-Employed by Red Hat where I work/have worked on projects related to messaging, IoT, embedded and software supply chain.
+I work at Akiles where I design, implement and test firmware/software for embedded devices and backend software systems.
 
-Previous: Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
+Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
 
 ## Contact
 
