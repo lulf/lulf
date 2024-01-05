@@ -5,7 +5,7 @@ Software engineer with interest in systems constrained by size, performance or s
 * Open Source communities
 
 ## Work 
-I work at Akiles where I design, implement and test firmware/software for embedded devices and backend software systems.
+I work at [Akiles](https://akiles.app/en) where I design, implement and test firmware/software for embedded devices and backend software systems.
 
 Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
 
