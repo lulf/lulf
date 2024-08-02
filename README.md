@@ -12,7 +12,7 @@ Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo!
 
 ## Stats
 
-[![Ulf's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulf&count_private=true&theme=dark&show_icons=true&show=reviews&hide_rank)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulf's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulf&count_private=true&theme=dark&show_icons=true&show=reviews&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulf&theme=dark&layout=compact)
 
 ## Contact
