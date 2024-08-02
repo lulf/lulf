@@ -5,9 +5,15 @@ Software engineer with interest in systems constrained by size, performance or s
 * Open Source communities
 
 ## Work 
-I work at [Akiles](https://akiles.app/en) where I design, implement and test firmware/software for embedded devices and backend software systems.
+I work at [Akiles](https://akiles.app/en) where I design, implement and test firmware for embedded devices.
 
 Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
+
+
+## Stats
+
+[![Ulf's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulf&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulf&theme=dark&layout=compact)
 
 ## Contact
 
