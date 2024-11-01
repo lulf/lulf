@@ -18,6 +18,7 @@ Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo!
 ## Contact
 
 * 🐘 [Fediverse](https://hachyderm.io/@lulf)
+* 🦋 [Bluesky](https://bsky.app/profile/lulf.no)
 *  :incoming_envelope: [E-Mail](mailto:ulf.lilleengen@gmail.com)
   
 <!--
