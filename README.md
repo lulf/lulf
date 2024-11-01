@@ -7,7 +7,7 @@ Software engineer with interest in systems constrained by size, performance or s
 ## Work 
 I work at [Akiles](https://akiles.app/en) where I design, implement and test firmware for embedded devices.
 
-Previous: Red Hat (IoT, Messaging, Embedded), Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
+Previous: Red Hat ([IoT](https://www.drogue.io/), [Messaging](https://enmasseproject.github.io/), [Embedded](https://github.com/drogue-iot/drogue-device)), Nordic Semiconductor (IoT), Yahoo! ([Vespa.ai](https://vespa.ai))
 
 
 ## Stats
